@@ -4,9 +4,9 @@ import { NEXT_PUBLIC_URL } from './config';
 
 // Local images array
 const localImages = [
-  `/images/8npha5.jpg`,
-  `/images/8nu7so.jpg`,
-  `/images/8nh1ya.jpg`,
+  `images/8npha5.jpg`,
+  `images/8nu7so.jpg`,
+  `images/8nh1ya.jpg`,
 ];
 
 const frameMetadata = getFrameMetadata({
