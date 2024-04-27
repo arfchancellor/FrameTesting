@@ -8,7 +8,7 @@
 # A Frame in 100 lines (or less)
 
 Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel.
-
+ 
 To test a **deployed** Frame, use: https://warpcast.com/~/developers/frames.
 
 To test a **localhost** Frame, use: [Framegear](https://onchainkit.xyz/frame/framegear).
