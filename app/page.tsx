@@ -24,6 +24,7 @@ const frameMetadata = getFrameMetadata({
   postUrl: `${NEXT_PUBLIC_URL}/api/frame`,
 });
 
+
 export const metadata: Metadata = {
   title: 'zizzamia.xyz',
   description: 'LFG',
